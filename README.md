@@ -1,2 +1,2 @@
 # my-first-project
-xin chào mọi người mình là  viên  năm nhất đang học lập trình 
+xin chào mọi người mình là sinh viên năm nhất đang học lập trình 
